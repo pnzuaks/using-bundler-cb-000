@@ -7,7 +7,6 @@ gem "awesome_print"
 
 
  
-group :development do
-  gem "pry", :group => "development"
-end
+gem "pry", :group => "development"
+
 
