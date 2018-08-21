@@ -3,7 +3,7 @@ gem "rspec"
 gem "sinatra"
 gem "hashie"
 gem "octokit"
-gem "awesomeprint"
+gem "awesomeprint", "-v '0.0.1'"
 
 
  
